@@ -1,0 +1,30 @@
+{
+  "name": "starter-react",
+  "version": "1.0.0",
+  "description": "react-starter-pack",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasusharrma/tailwind-react-starter-pack.git"
+  },
+  "author": "vasu sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasusharrma/tailwind-react-starter-pack/issues"
+  },
+  "homepage": "https://github.com/vasusharrma/tailwind-react-starter-pack#readme",
+  "devDependencies": {
+    "parcel": "^2.13.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwindcss": "^3.4.15"
+  }
+}
